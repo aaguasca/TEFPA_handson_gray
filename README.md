@@ -1,6 +1,9 @@
 Hands-on session of TEFPA about the analysis of very-high-energy gamma-ray sources using Gammapy
 
 ## Install
+
+- You will need to install [git](https://github.com/git-guides/install-git).
+
 - You will need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) (recommended) or [anaconda](https://www.anaconda.com/distribution/#download-section) first. 
 
 - Clone the repository
