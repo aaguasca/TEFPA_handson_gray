@@ -13,7 +13,7 @@ Or download it without git as follows: On the main page of the repository, in th
 
 
 - Create and activate the gammapy v1.0 environment
-If you use Windows, use:
+If you use Windows, use (once inside the TEFPA_gray_handson directory):
 ```
 conda env create -f gammapy-1.0-environment_windows.yml
 conda activate gammapy-1.0
